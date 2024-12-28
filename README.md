@@ -91,7 +91,9 @@ Before proceeding, ensure the following are installed on your EC2 instance:
      ```
    - Open your browser and go to: `http://localhost:3000`
 
-![Grafana Login](https://via.placeholder.com/800x400?text=Grafana+Login+Screenshot)
+![Grafana ](grafana1.png)
+![Grafana ](grafana2.png)
+
 
 ---
 
@@ -103,7 +105,7 @@ Before proceeding, ensure the following are installed on your EC2 instance:
 2. **Import Grafana Dashboards**:  
    - Import a predefined dashboard or create custom visualizations for your application metrics.
 
-![Prometheus Dashboard](https://via.placeholder.com/800x400?text=Prometheus+Dashboard+Screenshot)
+![Prometheus Dashboard](Prometheus.png)
 
 ---
 
@@ -123,7 +125,7 @@ Before proceeding, ensure the following are installed on your EC2 instance:
 3. **Test the Application**:  
    Access the application using the external URL or NodePort.
 
-![Vote App Running](https://via.placeholder.com/800x400?text=Vote+App+Running+Screenshot)
+![Vote App Running](voteapp.png)
 
 ---
 
